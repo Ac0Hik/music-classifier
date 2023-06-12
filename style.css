@@ -2,11 +2,13 @@
     background-image: url("backgr.jpg");
    }
 
-.css-10trblm{
-    background-color: #f5f5f5;
+.css-10trblm, .css-fis6aj-eqdbnj010{
+    background-color: #f3f5e4;
     border: 2px solid;
     padding: 20px 20px 20px 20px;
     border-radius: 10px;
-    color: #4f70d4;
+    color: #5f73b1;
     box-shadow: 10px;
    }
+
+
