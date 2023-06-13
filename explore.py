@@ -14,7 +14,7 @@ def show_explore():
     st.write("**This is a web app that classifies Moroccan music to _:red[6 genres]_ all you have**")
 
     st.header("Genres")
-    st.write("**These are the 6 genres that model can model can predict:**")
+    st.write("**These are the 6 genres that model can predict:**")
     st.markdown("**Gnawa**")
     st.markdown("**Chaabi**")
     st.markdown("**Andalusian**")
@@ -24,7 +24,7 @@ def show_explore():
 
 
     st.subheader("Tutorial")
-    st.write("**Please head to predict page using the naigation menu**")
+    st.write("**Please head to predict page using the navigation menu**")
     st.write("**Upload your :red[.wav] file and hit :red[predict]**")
     st.write("**If the predict button doesn't show up please be patient**")
     st.write("**Click predict and the corresponding class will show up based on the model's classfication**")
