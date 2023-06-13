@@ -11,7 +11,7 @@ def show_explore():
                    and melodies that define this rich musical heritage. Browse, listen, and classify tracks effortlessly.
                    Immerse yourself in the magic of Moroccan music.**""")
 
-    st.write("**This is a web app that classifies Moroccan music to _:red[6 genres]_ all you have**")
+    st.write("**This is a web app that classifies Moroccan music to _:red[6 genres]_**")
 
     st.header("Genres")
     st.write("**These are the 6 genres that model can predict:**")
