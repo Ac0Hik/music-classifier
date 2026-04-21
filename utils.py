@@ -61,7 +61,7 @@ def add_bg_from_local(image_file):
     )
   
 
-def add_logo(logo_path, width, height):
+def load_logo(logo_path, width, height):
     """Read and return a resized logo"""
     logo = Image.open(logo_path)
     modified_logo = logo.resize((width, height))
